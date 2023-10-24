@@ -1,8 +1,6 @@
 # HUCN
 # Hierarchical Unbiased Constraints-Enhanced Cross-Domain 3D model Retrieval
-  Implementation of the paper: Hierarchical Unbiased Constraints-Enhanced Cross-Domain 3D model Retrieval.
-  
-  The code of HUCN will been published soon.
+  Implementation of the paper: [Hierarchical Unbiased Constraints-Enhanced Cross-Domain 3D model Retrieval (TCSVT)](https://ieeexplore.ieee.org/document/10101863).
 
 ## Citation
 Please consider citing the paper if you find our research helpful:
