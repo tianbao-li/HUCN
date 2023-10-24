@@ -7,11 +7,13 @@
 ## Citation
 Please consider citing the paper if you find our research helpful:
 ```
-@ARTICLE{9345420,
-  author={Song, Dan and Nie, Wei-Zhi and Li, Wen-Hui and Kankanhalli, Mohan and Liu, An-An},
-  journal={IEEE Transactions on Cybernetics}, 
-  title={Monocular Image-Based 3-D Model Retrieval: A Benchmark}, 
-  year={2021},
-  pages={1-14},
-  doi={10.1109/TCYB.2021.3051016}}
+@ARTICLE{10101863,
+  author={Li, Tian-Bao and Liu, An-An and Song, Dan and Li, Wen-Hui and Li, Xuan-Ya and Su, Yu-Ting},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3266920}}
 ```
