@@ -9,8 +9,8 @@ Please consider citing the paper if you find our research helpful:
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Focus on Hard Samples: Hierarchical Unbiased Constraints for Cross-Domain 3D Model Retrieval}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={33},
+  number={11},
+  pages={7036-7049},
   doi={10.1109/TCSVT.2023.3266920}}
 ```
